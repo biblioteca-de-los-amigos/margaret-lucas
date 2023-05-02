@@ -92,7 +92,7 @@ Ella nunca me pidió que fuera a la capilla; sin embargo,
 muchas veces fui por voluntad propia,
 y desde entonces he tenido oportunidad de recordar lo que viví allí. Permanecí
 con ella hasta que el pueblo comenzó a dividirse entre los tory y los whig;^
-footnote:[_Tory y Whig,_
+footnote:[__Tory y Whig,__
 miembros de dos partidos o facciones políticas opuestas en Inglaterra,
 especialmente durante el siglo XVIII.]
 y como ella temía las repercusiones, le pidió a mi tío que me llevara a casa.
@@ -2217,30 +2217,20 @@ ha sido capacitada y animada a atribuirle a Él el honor, la adoración,
 el dominio y el renombre, con alabanzas y acciones de gracias,
 como resultado de Su amor eterno, por los siglos de los siglos.
 
+[verse]
+____
 Tras examinar la trama,
-
 Mi alma se aviva como una llama
-
 De un santo celo, para así conocer
-
 La mano de Dios en mi quehacer.
-
 ¡Oh que en esto yo pueda confiar
-
 Y que el Juez justo me pueda probar!
-
 Este es mi deseo mayor
-
 que mi fe, esperanza y amor
-
 no me avergüencen, antes bien estimar
-
 y más allá de la tumba poder heredar
-
 un disfrute, Señor; que me puedas permitir
-
 vivir en temor y en gracia morir;
-
 Y que en alas de aleluya pueda estar
-
 y mi alma a nuestro Rey encontrar.
+____
